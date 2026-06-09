@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Satellite body -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M40,38L68,38L68,70L40,70Z" />
+    <!-- Solar panel left -->
+    <path
+        android:fillColor="#00B4D8"
+        android:pathData="M10,47L40,47L40,61L10,61Z" />
+    <!-- Solar panel right -->
+    <path
+        android:fillColor="#00B4D8"
+        android:pathData="M68,47L98,47L98,61L68,61Z" />
+    <!-- Panel connector left -->
+    <path
+        android:fillColor="#48CAE4"
+        android:pathData="M38,52L42,52L42,56L38,56Z" />
+    <!-- Panel connector right -->
+    <path
+        android:fillColor="#48CAE4"
+        android:pathData="M66,52L70,52L70,56L66,56Z" />
+    <!-- Antenna pole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,22L56,22L56,38L52,38Z" />
+    <!-- Antenna dish -->
+    <path
+        android:fillColor="#00B4D8"
+        android:pathData="M44,22A10,10 0,0,1 64,22Z" />
+    <!-- Sensor window -->
+    <path
+        android:fillColor="#00B4D8"
+        android:pathData="M48,50A6,6 0,1,1 60,50A6,6 0,1,1 48,50Z" />
+</vector>

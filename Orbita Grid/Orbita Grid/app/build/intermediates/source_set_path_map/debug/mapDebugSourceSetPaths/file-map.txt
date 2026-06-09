@@ -1,0 +1,54 @@
+br.com.fiap.orbitagrid.app-lifecycle-livedata-core-2.8.0-0 /Users/felipetakara/.gradle/caches/transforms-3/132244f6b21c6f9298883afd58e22c73/transformed/lifecycle-livedata-core-2.8.0/res
+br.com.fiap.orbitagrid.app-savedstate-ktx-1.2.1-1 /Users/felipetakara/.gradle/caches/transforms-3/1398406b0794766bce5f3013a3a26977/transformed/savedstate-ktx-1.2.1/res
+br.com.fiap.orbitagrid.app-ui-tooling-release-2 /Users/felipetakara/.gradle/caches/transforms-3/1881c1062b0a858332704d53edefcbd9/transformed/ui-tooling-release/res
+br.com.fiap.orbitagrid.app-ui-unit-release-3 /Users/felipetakara/.gradle/caches/transforms-3/2375e9f051b6377fd460be029d10c137/transformed/ui-unit-release/res
+br.com.fiap.orbitagrid.app-ui-graphics-release-4 /Users/felipetakara/.gradle/caches/transforms-3/240fffc113b929f215adfe73d87233e1/transformed/ui-graphics-release/res
+br.com.fiap.orbitagrid.app-savedstate-1.2.1-5 /Users/felipetakara/.gradle/caches/transforms-3/24e489ec883cf79479475bc1714b4a54/transformed/savedstate-1.2.1/res
+br.com.fiap.orbitagrid.app-customview-poolingcontainer-1.0.0-6 /Users/felipetakara/.gradle/caches/transforms-3/33cdd77a27d4252b81b60501e5335c1e/transformed/customview-poolingcontainer-1.0.0/res
+br.com.fiap.orbitagrid.app-profileinstaller-1.3.1-7 /Users/felipetakara/.gradle/caches/transforms-3/36b6fb0f96ed1ccfa3e02e0b3a7c871c/transformed/profileinstaller-1.3.1/res
+br.com.fiap.orbitagrid.app-runtime-release-8 /Users/felipetakara/.gradle/caches/transforms-3/3aee498b497d45c8db08470c5c7fabf9/transformed/runtime-release/res
+br.com.fiap.orbitagrid.app-foundation-layout-release-9 /Users/felipetakara/.gradle/caches/transforms-3/3d23fee8c4c3b21b125d8c8cbbab4d17/transformed/foundation-layout-release/res
+br.com.fiap.orbitagrid.app-material-icons-extended-release-10 /Users/felipetakara/.gradle/caches/transforms-3/4ed2159c3c41354e0fb463b217493bef/transformed/material-icons-extended-release/res
+br.com.fiap.orbitagrid.app-runtime-saveable-release-11 /Users/felipetakara/.gradle/caches/transforms-3/503a746382da0b204fab77c878014056/transformed/runtime-saveable-release/res
+br.com.fiap.orbitagrid.app-emoji2-1.3.0-12 /Users/felipetakara/.gradle/caches/transforms-3/5377a544f2f7bc4778a106e65aa3a068/transformed/emoji2-1.3.0/res
+br.com.fiap.orbitagrid.app-animation-core-release-13 /Users/felipetakara/.gradle/caches/transforms-3/53d0a0f231f598dbb98130cd1507be19/transformed/animation-core-release/res
+br.com.fiap.orbitagrid.app-navigation-common-ktx-2.7.7-14 /Users/felipetakara/.gradle/caches/transforms-3/561c3304d57ab54c5b69638df1487a36/transformed/navigation-common-ktx-2.7.7/res
+br.com.fiap.orbitagrid.app-lifecycle-runtime-release-15 /Users/felipetakara/.gradle/caches/transforms-3/58d573017ad8adbddff468e66e31b99c/transformed/lifecycle-runtime-release/res
+br.com.fiap.orbitagrid.app-activity-1.9.0-16 /Users/felipetakara/.gradle/caches/transforms-3/5b1827d87fd3a02200eb485a3ed273b6/transformed/activity-1.9.0/res
+br.com.fiap.orbitagrid.app-core-1.13.1-17 /Users/felipetakara/.gradle/caches/transforms-3/6637503fe0e9270a96ea3e44e6e198d6/transformed/core-1.13.1/res
+br.com.fiap.orbitagrid.app-animation-release-18 /Users/felipetakara/.gradle/caches/transforms-3/69984e114cfa7a8528cef3404413b3ac/transformed/animation-release/res
+br.com.fiap.orbitagrid.app-lifecycle-runtime-ktx-release-19 /Users/felipetakara/.gradle/caches/transforms-3/73f99d0fc07a8896ecb6c0a68a946821/transformed/lifecycle-runtime-ktx-release/res
+br.com.fiap.orbitagrid.app-activity-ktx-1.9.0-20 /Users/felipetakara/.gradle/caches/transforms-3/75219264300fcb8a69877354439cd03e/transformed/activity-ktx-1.9.0/res
+br.com.fiap.orbitagrid.app-ui-util-release-21 /Users/felipetakara/.gradle/caches/transforms-3/758a20c8a44bd1b628ebe1d2caed37c9/transformed/ui-util-release/res
+br.com.fiap.orbitagrid.app-material-icons-core-release-22 /Users/felipetakara/.gradle/caches/transforms-3/766d38f7f0974dfaeea705fd3181a3ee/transformed/material-icons-core-release/res
+br.com.fiap.orbitagrid.app-lifecycle-runtime-compose-release-23 /Users/felipetakara/.gradle/caches/transforms-3/77604a357a2fa78fcc2a2fe8392d65ad/transformed/lifecycle-runtime-compose-release/res
+br.com.fiap.orbitagrid.app-startup-runtime-1.1.1-24 /Users/felipetakara/.gradle/caches/transforms-3/7a512fa456262d2693dac9fc369a7e4f/transformed/startup-runtime-1.1.1/res
+br.com.fiap.orbitagrid.app-material-release-25 /Users/felipetakara/.gradle/caches/transforms-3/7fc858e20071ff730f1f053f5e3e191f/transformed/material-release/res
+br.com.fiap.orbitagrid.app-foundation-release-26 /Users/felipetakara/.gradle/caches/transforms-3/8a1838f454aad1383d293d93b595fc0b/transformed/foundation-release/res
+br.com.fiap.orbitagrid.app-lifecycle-viewmodel-ktx-2.8.0-27 /Users/felipetakara/.gradle/caches/transforms-3/8ac609d7a71404ace97673de3095a83b/transformed/lifecycle-viewmodel-ktx-2.8.0/res
+br.com.fiap.orbitagrid.app-lifecycle-viewmodel-compose-release-28 /Users/felipetakara/.gradle/caches/transforms-3/92088608b67918797ae3138a0d517cb6/transformed/lifecycle-viewmodel-compose-release/res
+br.com.fiap.orbitagrid.app-ui-geometry-release-29 /Users/felipetakara/.gradle/caches/transforms-3/931be63f021541ff26b3c99b6dc65df5/transformed/ui-geometry-release/res
+br.com.fiap.orbitagrid.app-ui-tooling-data-release-30 /Users/felipetakara/.gradle/caches/transforms-3/9358cc8f557ee5048adcca8f5d62e9b1/transformed/ui-tooling-data-release/res
+br.com.fiap.orbitagrid.app-navigation-runtime-ktx-2.7.7-31 /Users/felipetakara/.gradle/caches/transforms-3/95cc4b3879ea20d183c06bc54de8e9de/transformed/navigation-runtime-ktx-2.7.7/res
+br.com.fiap.orbitagrid.app-material3-release-32 /Users/felipetakara/.gradle/caches/transforms-3/9b9da0e506f4f694d956b12c1302eaa3/transformed/material3-release/res
+br.com.fiap.orbitagrid.app-ui-tooling-preview-release-33 /Users/felipetakara/.gradle/caches/transforms-3/ab0f13eec9e81806a0fdc1824ff9ca76/transformed/ui-tooling-preview-release/res
+br.com.fiap.orbitagrid.app-navigation-runtime-2.7.7-34 /Users/felipetakara/.gradle/caches/transforms-3/b3a15e6601c8690a1889d4cf4a78de40/transformed/navigation-runtime-2.7.7/res
+br.com.fiap.orbitagrid.app-lifecycle-viewmodel-release-35 /Users/felipetakara/.gradle/caches/transforms-3/c27037179bdfeb740a62014bc5e33a21/transformed/lifecycle-viewmodel-release/res
+br.com.fiap.orbitagrid.app-ui-text-release-36 /Users/felipetakara/.gradle/caches/transforms-3/c3c40abdfff956bcb8f757b12c27b6ae/transformed/ui-text-release/res
+br.com.fiap.orbitagrid.app-navigation-compose-2.7.7-37 /Users/felipetakara/.gradle/caches/transforms-3/c97a5c2dc243607c240feb7b5d8d054f/transformed/navigation-compose-2.7.7/res
+br.com.fiap.orbitagrid.app-material-ripple-release-38 /Users/felipetakara/.gradle/caches/transforms-3/cf2aea8d5431bf50945d0a77aac67f95/transformed/material-ripple-release/res
+br.com.fiap.orbitagrid.app-activity-compose-1.9.0-39 /Users/felipetakara/.gradle/caches/transforms-3/d23a1618e42716dec466fc6a7e6352df/transformed/activity-compose-1.9.0/res
+br.com.fiap.orbitagrid.app-lifecycle-process-2.8.0-40 /Users/felipetakara/.gradle/caches/transforms-3/d5b15ef3bf1de005e004e178cf9506d3/transformed/lifecycle-process-2.8.0/res
+br.com.fiap.orbitagrid.app-annotation-experimental-1.4.0-41 /Users/felipetakara/.gradle/caches/transforms-3/e863e89cff40178544aa2a1563018ab2/transformed/annotation-experimental-1.4.0/res
+br.com.fiap.orbitagrid.app-core-ktx-1.13.1-42 /Users/felipetakara/.gradle/caches/transforms-3/e8edb287e60a210ef399ad9e357b21e0/transformed/core-ktx-1.13.1/res
+br.com.fiap.orbitagrid.app-ui-test-manifest-1.6.6-43 /Users/felipetakara/.gradle/caches/transforms-3/eebaf94a5a4b1a93f7d69b7595854451/transformed/ui-test-manifest-1.6.6/res
+br.com.fiap.orbitagrid.app-core-runtime-2.2.0-44 /Users/felipetakara/.gradle/caches/transforms-3/f2ce789a3b5d8fd95a0b4ce3624baf9b/transformed/core-runtime-2.2.0/res
+br.com.fiap.orbitagrid.app-ui-release-45 /Users/felipetakara/.gradle/caches/transforms-3/f818bda5847a4f25137406487f1b325f/transformed/ui-release/res
+br.com.fiap.orbitagrid.app-lifecycle-viewmodel-savedstate-2.8.0-46 /Users/felipetakara/.gradle/caches/transforms-3/fbaba5b4394ca9f54521c7dddae6764c/transformed/lifecycle-viewmodel-savedstate-2.8.0/res
+br.com.fiap.orbitagrid.app-navigation-common-2.7.7-47 /Users/felipetakara/.gradle/caches/transforms-3/fbfc214b4398eba2facc238b7cff9f36/transformed/navigation-common-2.7.7/res
+br.com.fiap.orbitagrid.app-resValues-48 /Users/felipetakara/Downloads/Fiap/GS/Orbita Grid/app/build/generated/res/resValues/debug
+br.com.fiap.orbitagrid.app-packageDebugResources-49 /Users/felipetakara/Downloads/Fiap/GS/Orbita Grid/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+br.com.fiap.orbitagrid.app-packageDebugResources-50 /Users/felipetakara/Downloads/Fiap/GS/Orbita Grid/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+br.com.fiap.orbitagrid.app-debug-51 /Users/felipetakara/Downloads/Fiap/GS/Orbita Grid/app/build/intermediates/merged_res/debug/mergeDebugResources
+br.com.fiap.orbitagrid.app-debug-52 /Users/felipetakara/Downloads/Fiap/GS/Orbita Grid/app/src/debug/res
+br.com.fiap.orbitagrid.app-main-53 /Users/felipetakara/Downloads/Fiap/GS/Orbita Grid/app/src/main/res
