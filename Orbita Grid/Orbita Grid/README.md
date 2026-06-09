@@ -1,9 +1,6 @@
 # ViaOrbit
 
 **Global Solution 2026 — FIAP**  
-**Aluno:** Ewerton Luiz de Lima Carreira  
-**Disciplina:** Android Development with Kotlin
-
 ---
 
 ## Sobre o projeto
